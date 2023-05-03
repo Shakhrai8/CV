@@ -1,6 +1,6 @@
 ## Yevhen Shakhrai
 
-Hi, my name is Yevhen and I'm the student in one of the most famous dev bootcamp in the world. I have a wide range of skills ganed over 5 years in coordination and problem solving within the construction industry in Germany. I'm hoping to apply all of that to a kick start a new career in tech industry.
+Hi, my name is Yevhen and I'm a student in one of the most famous dev bootcamps in the world. I have a wide range of skills gained over 5 years in coordination and problem solving within the construction industry in Germany. I'm hoping to apply all of that to kick start a new career in the tech industry.
 
 ## **SKILLS**
 <div align="center">
@@ -21,7 +21,7 @@ Hi, my name is Yevhen and I'm the student in one of the most famous dev bootcamp
 _Electrician_ in Control cabinet construction and installation
 
 
-- Problem solving and project coordination while completing a contract for installation of 63 control cabinets with Ikea in Karlsruhe.
+- Problem solving and project coordination while completing a contract for the installation of 63 control cabinets with Ikea in Karlsruhe.
 - Dozens of projects with different companies like: Ikea, Dachser, MEWA, BMW etc 
 
 
