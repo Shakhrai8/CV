@@ -18,7 +18,7 @@ Hi, my name is Yevhen and I'm the student in one of the most famous dev bootcamp
 ## Work Experience
 
 **HBS Elektroanlagenbau GmbH** (2016 to 2021)  
-_Electrician in Control cabinet construction and installation
+_Electrician_ in Control cabinet construction and installation
 
 
 - Problem solving and project coordination while completing a contract for installation of 63 control cabinets with Ikea in Karlsruhe.
@@ -33,7 +33,7 @@ _Electrician in Control cabinet construction and installation
 - Teamwork and communication while using pair programming
 
 #### Berufsschule, Schleiz, Germany (2015 to 2018)
-_Industrial Electrician
+_Industrial Electrician_
 
 - Physics, central heating controls, thermal imaging, different electrical systems(refrigeration etc.)
 
