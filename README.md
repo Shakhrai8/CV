@@ -44,3 +44,6 @@ _Industrial Electrician_
 ## Hobbies
 
 Gym, gaming and swimming :)
+
+[![Shakhrai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakhrai8)](https://github.com/anuraghazra/github-readme-stats)
+
