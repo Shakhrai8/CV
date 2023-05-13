@@ -45,6 +45,7 @@ _Industrial Electrician_
 
 Gym, gaming and swimming :)
 
+# 📊 GitHub Stats:
 ![Shakhrai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakhrai8&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhrai8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
