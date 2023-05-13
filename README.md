@@ -5,7 +5,7 @@ Hi, my name is Yevhen and I'm a student in one of the most famous dev bootcamps 
 ## **SKILLS**
 <div align="center">
     • Ruby    • MySQL		• Git        • GitHub		• TDD		• RSpec
-    • Pair Programming 			• OOP    • Team Work • Project Management
+    • Pair Programming 			• OOP    • Team Work • Project Management • Java Script basics
 </div>
 
 ## Projects
