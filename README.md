@@ -13,7 +13,7 @@ Hi, my name is Yevhen and I'm a student in one of the most famous dev bootcamps 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | [**Student Directory App**](https://github.com/Shakhrai8/student-directory)| Command line app which manages student directory | Ruby |
-| **Coming soon** | A webapp | Ruby |
+| [**Diary Project**](https://github.com/Shakhrai8/Diary)| Project which helps with managing a diary | Ruby |
 
 ## Work Experience
 
