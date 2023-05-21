@@ -12,6 +12,7 @@ Hi, my name is Yevhen and I'm a student in one of the most famous dev bootcamps 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
+| [**Pizza Ordering System**](https://github.com/Shakhrai8/Pizzeria)| A simple pizza ordering system | Ruby, Twilio, Rspec |
 | [**Student Directory App**](https://github.com/Shakhrai8/student-directory)| Command line app which manages student directory | Ruby |
 | [**Diary Project**](https://github.com/Shakhrai8/Diary)| Project which helps with managing a diary | Ruby |
 
