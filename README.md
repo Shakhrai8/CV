@@ -1,52 +1,81 @@
-## Yevhen Shakhrai
+# Yevhen Shakhrai
 
-Hi, my name is Yevhen and I'm a student in one of the most famous dev bootcamps in the world. I have a wide range of skills gained over 5 years in coordination and problem solving within the construction industry in Germany. I'm hoping to apply all of that to kick start a new career in the tech industry.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhrai8)
 
-## **SKILLS**
-<div align="center">
-    • Ruby    • SQL	• PostgreSQL 	• Git        • GitHub		• TDD		• RSpec
-    • Pair Programming 			• OOP    • Team Work • Project Management • Java Script basics • Twilio
-</div>
+Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned dev bootcamps in the world. With over five years of experience in coordination and problem-solving within the construction industry in Germany, I bring a diverse skill set to the table. Now, I'm excited to leverage my expertise.
 
-## Projects
+## Technologies & Tools
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| [**Pizza Ordering System**](https://github.com/Shakhrai8/Pizzeria)| A simple pizza ordering system | Ruby, Twilio, Rspec |
-| [**Student Directory App**](https://github.com/Shakhrai8/student-directory)| Command line app which manages student directory | Ruby |
-| [**Diary Project**](https://github.com/Shakhrai8/Diary)| Project which helps with managing a diary | Ruby |
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![TDD](https://img.shields.io/badge/-TDD-8A2BE2?style=flat-square)
+![RSpec](https://img.shields.io/badge/-RSpec-red?style=flat-square)
+![Pair Programming](https://img.shields.io/badge/-Pair%20Programming-blueviolet?style=flat-square)
+![OOP](https://img.shields.io/badge/-OOP-FFA500?style=flat-square)
+![Team Work](https://img.shields.io/badge/-Team%20Work-brightgreen?style=flat-square)
+![Project Management](https://img.shields.io/badge/-Project%20Management-lightgrey?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![Twilio](https://img.shields.io/badge/-Twilio-FF6F00?style=flat-square&logo=twilio&logoColor=white)
+![Sinatra](https://img.shields.io/badge/-Sinatra-brightgreen?style=flat-square)
+![Backup](https://img.shields.io/badge/-Backup-00FFFF?style=flat-square)
+![APIs](https://img.shields.io/badge/-APIs-00599C?style=flat-square)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Diagramming](https://img.shields.io/badge/-Diagramming-ff69b4?style=flat-square)
+
+## Project Showcase
+
+| Project Name        | Description                          | Repository Link                                    |
+|---------------------|--------------------------------------|----------------------------------------------------|
+| Pizza Ordering System   | A simple pizza ordering system built using Ruby, Twilio, and RSpec. | [GitHub](https://github.com/Shakhrai8/Pizzeria) |
+| Cyber Twitter      | Ruby-based Twitter clone web application that allows users to sign up, log in, and post "peeps".   | [GitHub](https://github.com/Shakhrai8/cyber-twitter) |
+| Makers BnB      | Web application built with Sinatra that allows users to list and book rental spaces, inspired by Airbnb. | [GitHub](https://github.com/Shakhrai8/makers_bnb) |
+
 
 ## Work Experience
 
-**HBS Elektroanlagenbau GmbH** (2016 to 2021)  
-_Electrician_ in Control cabinet construction and installation
+### HBS Elektroanlagenbau GmbH (2016 to 2021)
 
-
-- Problem solving and project coordination while completing a contract for the installation of 63 control cabinets with Ikea in Karlsruhe.
-- Dozens of projects with different companies like: Ikea, Dachser, MEWA, BMW etc 
-
+- Electrician in Control cabinet construction and installation
+- Problem solving and project coordination for the installation of 63 control cabinets with Ikea in Karlsruhe
+- Worked on projects with companies like Ikea, Dachser, MEWA, BMW, etc.
 
 ## Education
 
-#### Makers Academy (May 2023 to On going)
-- Proficient in Ruby programming 
-- Strong understanding of TDD, BDD RSpec, and OOP principles
-- Teamwork and communication while using pair programming
+### Makers Academy (May 2023 to Present)
 
-#### Berufsschule, Schleiz, Germany (2015 to 2018)
-_Industrial Electrician_
+- Proficient in Ruby and Javascript programming languages 
+- Strong understanding of TDD, BDD, RSpec, and OOP principles
+- Experienced in teamwork and communication through pair programming
 
-- Physics, central heating controls, thermal imaging, different electrical systems(refrigeration etc.)
+### Berufsschule, Schleiz, Germany (2015 to 2018)
 
-#### Volyn College, Ukraine (2013 to 2015)
+- Industrial Electrician
+- Specialized in physics, central heating controls, thermal imaging, and different electrical systems (refrigeration, etc.)
 
-- UNIX systems, TurboPascal, C+, Assembler
+### Volyn College, Ukraine (2013 to 2015)
+
+- Studied UNIX systems, TurboPascal, C+, Assembler
 
 ## Hobbies
 
-Gym, gaming and swimming :)
+Gym, gaming, and swimming :)
 
-# 📊 GitHub Stats:
-![Shakhrai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakhrai8&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhrai8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats
+
+![Shakhrai8's Stats](https://github-readme-stats.vercel.app/api?username=Shakhrai8&theme=merko&show_icons=true&hide_border=false&count_private=true)
+
+## GitHub Top Languages
+
+![Shakhrai8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakhrai8&theme=merko&show_icons=true&hide_border=false&layout=compact)
+
+## GitHub Streak Stats
+
+![Shakhrai8's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakhrai8&theme=merko&hide_border=false)
+
+
+
+
 
