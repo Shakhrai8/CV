@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shakhrai8)
 
-Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned dev bootcamps in the world. With over five years of experience in coordination and problem-solving within the construction industry in Germany, I bring a diverse skill set to the table. Now, I'm excited to leverage my expertise.
+Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned dev bootcamps in the world. After five years in the construction industry, I was inspired by the creativity, problem-solving, and constant evolution inherent in the world of tech, prompting my shift to software development. My background in coordination and problem-solving from my time in the construction industry in Germany equips me with a unique perspective and transferable skills that I'm excited to leverage in the tech industry.
 
 ## Technologies & Tools
 
@@ -36,28 +36,32 @@ Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned de
 
 ## Project Showcase
 
-| Project Name        | Description                          | Repository Link                                    |
-|---------------------|--------------------------------------|----------------------------------------------------|
-| Acebook   | ACEBOOK, a robust social networking platform built with React, Express.js, MongoDB, JWT, and tested with Jest and Cypress. | [GitHub](https://github.com/Shakhrai8/acebook) |
-| Cyber Twitter      | Ruby-based Twitter clone web application that allows users to sign up, log in, and post "peeps".   | [GitHub](https://github.com/Shakhrai8/cyber-twitter) |
-| Makers BnB      | Web application built with Sinatra that allows users to list and book rental spaces, inspired by Airbnb. | [GitHub](https://github.com/Shakhrai8/makers_bnb) |
+| Project Name        | Description | Repository Link | Tools / Technologies |
+|---------------------|-------------|-----------------|----------------------|
+| Acebook | ACEBOOK, a robust social networking platform built with React, Express.js, MongoDB, JWT, and tested with Jest and Cypress. | [GitHub](https://github.com/Shakhrai8/acebook) | JS, React, Express.js, MongoDB, JWT, Jest, Cypress |
+| Cyber Twitter | Ruby-based Twitter clone web application that allows users to sign up, log in, and post "peeps". | [GitHub](https://github.com/Shakhrai8/cyber-twitter) | Ruby, Sinatra, PostgreSQL, BCrypt, RSpec |
+| Makers BnB | Web application built with Sinatra that allows users to list and book rental spaces, inspired by Airbnb. | [GitHub](https://github.com/Shakhrai8/makers_bnb) | Ruby, Sinatra, PostgreSQL, BCrypt, RSpec |
+
 
 
 ## Work Experience
 
 ### HBS Elektroanlagenbau GmbH (2016 to 2021)
 
-- Electrician in Control cabinet construction and installation
-- Problem solving and project coordination for the installation of 63 control cabinets with Ikea in Karlsruhe
-- Worked on projects with companies like Ikea, Dachser, MEWA, BMW, etc.
+- Utilized problem-solving skills and coordinated projects for the installation of 63 control cabinets with Ikea in Karlsruhe, enhancing my ability to manage complex tasks and improving efficiency
+- Collaborated with teams on projects for companies like Ikea, Dachser, MEWA, BMW, demonstrating my teamwork and communication skills
+- Developed strong attention to detail and safety protocols while working as an Electrician in Control cabinet construction and installation
 
 ## Education
 
 ### Makers Academy (May 2023 to Present)
 
-- Proficient in Ruby and Javascript programming languages 
-- Strong understanding of TDD, BDD, RSpec, and OOP principles
-- Experienced in teamwork and communication through pair programming
+- Developed proficiency in Ruby and JavaScript programming languages while working on several projects, which allowed me to create dynamic and efficient code
+- Gained a strong understanding of TDD, BDD, RSpec, and OOP principles, enhancing my testing and debugging capabilities
+- Enhanced my teamwork and communication skills through pair programming, leading to improved code quality and efficiency in projects
+- Learned the Agile methodology through hands-on experience, improving project workflow and team collaboration
+- Gained hands-on experience with a multitude of frameworks and libraries including React, Express.js, Node.js, Ruby on Rails, and Sinatra, enabling me to build robust and scalable applications.
+
 
 ### Berufsschule, Schleiz, Germany (2015 to 2018)
 
