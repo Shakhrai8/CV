@@ -38,6 +38,7 @@ Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned de
 
 | Project Name        | Description | Repository Link | Tools / Technologies |
 |---------------------|-------------|-----------------|----------------------|
+| Trail | TRAIL, an innovative historical location finder built with React and Node.js. Leveraging Google API for location data and OpenAI GPT for descriptions. Tested with Jest and Cypress and deployed on trailapp.net. | [GitHub](https://github.com/Shakhrai8/trail) | JS, React, Node.js, Express.js, Google API, OpenAI GPT, Jest, Cypress |
 | Acebook | ACEBOOK, a robust social networking platform built with React, Express.js, MongoDB, JWT, and tested with Jest and Cypress. | [GitHub](https://github.com/Shakhrai8/acebook) | JS, React, Express.js, MongoDB, JWT, Jest, Cypress |
 | Cyber Twitter | Ruby-based Twitter clone web application that allows users to sign up, log in, and post "peeps". | [GitHub](https://github.com/Shakhrai8/cyber-twitter) | Ruby, Sinatra, PostgreSQL, BCrypt, RSpec |
 | Makers BnB | Web application built with Sinatra that allows users to list and book rental spaces, inspired by Airbnb. | [GitHub](https://github.com/Shakhrai8/makers_bnb) | Ruby, Sinatra, PostgreSQL, BCrypt, RSpec |
