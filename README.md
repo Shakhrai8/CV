@@ -34,6 +34,20 @@ Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned de
 ![Backup](https://img.shields.io/badge/-Backup-00FFFF?style=flat-square)
 ![Diagramming](https://img.shields.io/badge/-Diagramming-ff69b4?style=flat-square)
 
+## Skills In-Depth
+
+**Agile Development**
+
+During my work on projects like [Trail](https://github.com/Shakhrai8/trail) and [Acebook](https://github.com/Shakhrai8/acebook), our teams adopted the Agile methodology for development. Each morning, we'd kick off with standup meetings to discuss the previous day's achievements and the day's goals. Tools like Trello helped us manage our sprints, and iterative feedback loops ensured we stayed aligned with user needs.
+
+**TDD (Test-Driven Development)**
+
+My commitment to creating robust and bug-free applications has been demonstrated in every project I've worked on, particularly with [Trail](https://github.com/Shakhrai8/trail) and [Acebook](https://github.com/Shakhrai8/acebook). Utilizing frameworks like Jest and Cypress, TDD became an integral part of the development process. This approach not only caught issues early but also helped in designing clearer, more maintainable code structures.
+
+**Pair Programming**
+
+Collaboration has been key to accelerating my learning and producing high-quality code. Through projects like [Cyber Twitter](https://github.com/Shakhrai8/cyber-twitter) and [MakersBnB](https://github.com/Shakhrai8/makers_bnb), I had the chance to work closely with other developers using pair programming. This method not only fostered knowledge sharing but also promoted better code quality, as each line of code was reviewed and discussed in real-time.
+
 ## Project Showcase
 
 | Project Name        | Description | Repository Link | Tools / Technologies |
@@ -47,7 +61,7 @@ Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned de
 
 ## Work Experience
 
-### HBS Elektroanlagenbau GmbH (2016 to 2021)
+**HBS Elektroanlagenbau GmbH (2016 to 2021)**
 
 - Utilized problem-solving skills and coordinated projects for the installation of 63 control cabinets with Ikea in Karlsruhe, enhancing my ability to manage complex tasks and improving efficiency
 - Collaborated with teams on projects for companies like Ikea, Dachser, MEWA, BMW, demonstrating my teamwork and communication skills
@@ -55,7 +69,7 @@ Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned de
 
 ## Education
 
-### Makers Academy (May 2023 to Present)
+**Makers Academy (May 2023 to Present)**
 
 - Developed proficiency in Ruby and JavaScript programming languages while working on several projects, which allowed me to create dynamic and efficient code
 - Gained a strong understanding of TDD, BDD, RSpec, and OOP principles, enhancing my testing and debugging capabilities
@@ -64,12 +78,12 @@ Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned de
 - Gained hands-on experience with a multitude of frameworks and libraries including React, Express.js, Node.js, Ruby on Rails, and Sinatra, enabling me to build robust and scalable applications.
 
 
-### Berufsschule, Schleiz, Germany (2015 to 2018)
+**Berufsschule, Schleiz, Germany (2015 to 2018)**
 
 - Industrial Electrician
 - Specialized in physics, central heating controls, thermal imaging, and different electrical systems (refrigeration, etc.)
 
-### Volyn College, Ukraine (2013 to 2015)
+**Volyn College, Ukraine (2013 to 2015)**
 
 - Studied UNIX systems, TurboPascal, C+, Assembler
 
