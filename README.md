@@ -34,6 +34,14 @@ Hi, I'm Yevhen, a motivated and skilled student from one of the most renowned de
 ![Backup](https://img.shields.io/badge/-Backup-00FFFF?style=flat-square)
 ![Diagramming](https://img.shields.io/badge/-Diagramming-ff69b4?style=flat-square)
 
+## Work Experience
+
+**HBS Elektroanlagenbau GmbH (2016 to 2021)**
+
+- Utilized problem-solving skills and coordinated projects for the installation of 63 control cabinets with Ikea in Karlsruhe, enhancing my ability to manage complex tasks and improving efficiency.
+- Collaborated with teams on projects for companies like Ikea, Dachser, MEWA, BMW, demonstrating my teamwork, communication skills, and ability to execute tasks to perfection.
+- Developed strong attention to detail and safety protocols while working as an Electrician in Control cabinet construction and installation.
+
 ## Skills In-Depth
 
 **Agile Development**
@@ -44,9 +52,13 @@ During my work on projects like [Trail](https://github.com/Shakhrai8/trail) and 
 
 My commitment to creating robust and bug-free applications has been demonstrated in every project I've worked on, particularly with [Trail](https://github.com/Shakhrai8/trail) and [Acebook](https://github.com/Shakhrai8/acebook). Utilizing frameworks like Jest and Cypress, TDD became an integral part of the development process. This approach not only caught issues early but also helped in designing clearer, more maintainable code structures.
 
-**Pair Programming**
+**Pair Programming & Communication**
 
-Collaboration has been key to accelerating my learning and producing high-quality code. Through projects like [Cyber Twitter](https://github.com/Shakhrai8/cyber-twitter) and [MakersBnB](https://github.com/Shakhrai8/makers_bnb), I had the chance to work closely with other developers using pair programming. This method not only fostered knowledge sharing but also promoted better code quality, as each line of code was reviewed and discussed in real-time.
+Collaboration and communication have been key to accelerating my learning and producing high-quality code. Through projects like [Cyber Twitter](https://github.com/Shakhrai8/cyber-twitter) and [MakersBnB](https://github.com/Shakhrai8/makers_bnb), I had the chance to work closely with other developers using pair programming. This method not only fostered knowledge sharing but also promoted better code quality, as each line of code was reviewed and discussed in real-time.
+
+**Object-Oriented Principles**
+
+In my projects, I've regularly applied OO principles like Encapsulation, Polymorphism, and Inheritance to ensure my code is modular, reusable, and scalable. For instance, in my project [Trail](https://github.com/Shakhrai8/trail), these principles allowed for more maintainable code that could be easily extended with new features.
 
 ## Project Showcase
 
@@ -57,39 +69,28 @@ Collaboration has been key to accelerating my learning and producing high-qualit
 | Cyber Twitter | Ruby-based Twitter clone web application that allows users to sign up, log in, and post "peeps". | [GitHub](https://github.com/Shakhrai8/cyber-twitter) | Ruby, Sinatra, PostgreSQL, BCrypt, RSpec |
 | Makers BnB | Web application built with Sinatra that allows users to list and book rental spaces, inspired by Airbnb. | [GitHub](https://github.com/Shakhrai8/makers_bnb) | Ruby, Sinatra, PostgreSQL, BCrypt, RSpec |
 
-
-
-## Work Experience
-
-**HBS Elektroanlagenbau GmbH (2016 to 2021)**
-
-- Utilized problem-solving skills and coordinated projects for the installation of 63 control cabinets with Ikea in Karlsruhe, enhancing my ability to manage complex tasks and improving efficiency
-- Collaborated with teams on projects for companies like Ikea, Dachser, MEWA, BMW, demonstrating my teamwork and communication skills
-- Developed strong attention to detail and safety protocols while working as an Electrician in Control cabinet construction and installation
-
 ## Education
 
 **Makers Academy (May 2023 to Present)**
 
-- Developed proficiency in Ruby and JavaScript programming languages while working on several projects, which allowed me to create dynamic and efficient code
-- Gained a strong understanding of TDD, BDD, RSpec, and OOP principles, enhancing my testing and debugging capabilities
-- Enhanced my teamwork and communication skills through pair programming, leading to improved code quality and efficiency in projects
-- Learned the Agile methodology through hands-on experience, improving project workflow and team collaboration
-- Gained hands-on experience with a multitude of frameworks and libraries including React, Express.js, Node.js, Ruby on Rails, and Sinatra, enabling me to build robust and scalable applications.
-
+- Developed proficiency in Ruby and JavaScript programming languages while working on various projects.
+- Gained a strong understanding of TDD, BDD, and OOP principles, enhancing my testing and debugging capabilities.
+- Enhanced my teamwork and communication skills through pair programming and Agile methodologies.
+- Gained hands-on experience with frameworks and libraries including React, Express.js, Node.js, Ruby on Rails, and Sinatra.
 
 **Berufsschule, Schleiz, Germany (2015 to 2018)**
 
-- Industrial Electrician
-- Specialized in physics, central heating controls, thermal imaging, and different electrical systems (refrigeration, etc.)
+- Position: Industrial Electrician
+- Specialized in physics, central heating controls, thermal imaging, and various electrical systems including refrigeration. Gained hands-on experience with electrical installations, troubleshooting, and maintenance tasks.
 
 **Volyn College, Ukraine (2013 to 2015)**
 
-- Studied UNIX systems, TurboPascal, C+, Assembler
+- Studied UNIX systems and programming languages like TurboPascal, C+, and Assembler. Developed basic applications and scripts, focusing on data processing and system operations.
 
 ## Hobbies
 
-Gym, gaming, and swimming :)
+I'm an ardent fan of the gym, which keeps me physically active and mentally sharp. Gaming offers an escape and a challenge, often prompting me to strategize and think critically. Swimming serves as a meditative exercise, helping me find calm and clarity.
+
 
 ## GitHub Stats
 
@@ -102,8 +103,6 @@ Gym, gaming, and swimming :)
 ## GitHub Streak Stats
 
 ![Shakhrai8's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shakhrai8&theme=merko&hide_border=false)
-
-
 
 
 
